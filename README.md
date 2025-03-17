@@ -1,4 +1,4 @@
-# PomSeg: A Persistent Homology based tool for the segmentation of embryo membrane images
+# PomSeg: the persistent homology-based membrane segmentation
 ## Description
 This is a 2D & 3D membrane segmentation tool based on persistent homology.
 
