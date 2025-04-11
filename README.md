@@ -46,6 +46,12 @@ For more detailed explanations, see the paper below.
 
 PAPER LINK HERE!
 
+## Installation and Software dependencies
+PomSeg code works on jupyter notebook. Thus it works with no installation process. It was developed in Python 3.10.9 with homcloud 4.4.1, numpy 1.22.0, matplotlib 3.8.4, scikit-image 0.22.0, napari 0.4.19.post1.
+
+## Run time
+Run time for each process is recorded in the jupyter notebooks.
+
 ## Persistent homology calculation
 We use HomCloud for the persistent homology calculation. You can install it from the link below.
 
