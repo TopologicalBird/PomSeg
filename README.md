@@ -14,6 +14,13 @@ https://doi.org/10.1101/2023.01.24.525420
 
 Joint work with Takafumi Ichikawa (Kyoto Univ.) & Yusuke Imoto (Kyoto Univ.)
 
+## PomSeg GUI
+
+PomSeg GUI is available from 
+
+https://drive.google.com/file/d/1mP4a9mhJt6_7aAY3MsKOIWheNc1yKL3I/view?usp=sharing
+
+
 ## Method
 ### Preprocessing
 First, we preprocess the image slice by slice using Ridge filter. This allows us to enhance the membrane parts.
