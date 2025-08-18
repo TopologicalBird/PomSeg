@@ -20,6 +20,10 @@ PomSeg GUI is available from
 
 https://drive.google.com/file/d/1mP4a9mhJt6_7aAY3MsKOIWheNc1yKL3I/view?usp=sharing
 
+Video tutorial
+
+https://drive.google.com/file/d/1aPEUYzEpYT1iSKS1zRV8f52GuWGGi_kX/view?usp=sharing
+
 
 ## Method
 ### Preprocessing
