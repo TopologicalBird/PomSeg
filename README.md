@@ -4,7 +4,7 @@ This is a 2D & 3D membrane segmentation tool based on persistent homology.
 
 PomSeg employs persistent homology in a hierarchical manner. When provided with 2D image data, PomSeg utilizes grayscale intensity-based persistent homology to produce cell segmentation results. If a set of 2D slice images obtained from 3D cell imaging is the input, PomSeg can generate, from a set of 2D segmentation results, a 3D segmentation result using a 3D distance-based persistent homology calculation.
 
-![alt text](https://github.com/TopologicalBird/PomSeg/blob/main/images/pomseg_img.png?raw=true)
+![PomSeg Image](https://github.com/TopologicalBird/PomSeg/blob/main/images/pomseg_img.png?raw=true)
 
 The embryo image shown in the jupyter notebook was provided by Dr. Dimitri Fabrèges
 
@@ -23,7 +23,8 @@ https://drive.google.com/file/d/1mP4a9mhJt6_7aAY3MsKOIWheNc1yKL3I/view?usp=shari
 Video tutorial
 
 https://drive.google.com/file/d/1aPEUYzEpYT1iSKS1zRV8f52GuWGGi_kX/view?usp=sharing
-[![texthere](https://drive.google.com/file/d/1UfX4nD0HwZkYZ0vawrTJ7evCqZjbY92f/view?usp=sharing)](https://drive.google.com/file/d/1aPEUYzEpYT1iSKS1zRV8f52GuWGGi_kX/view?usp=sharing)
+[![](<img width="1433" height="734" alt="githubimg" src="https://github.com/user-attachments/assets/eb04b65c-d5a5-4796-83e6-7069050ffdc8" />
+)](https://drive.google.com/file/d/1aPEUYzEpYT1iSKS1zRV8f52GuWGGi_kX/view?usp=sharing)
 
 ## Method
 ### Preprocessing
