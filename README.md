@@ -17,13 +17,11 @@ Joint work with Takafumi Ichikawa (Kyoto Univ.) & Yusuke Imoto (Kyoto Univ.)
 ## PomSeg GUI
 
 PomSeg GUI is available from 
-<img width="1433" height="734" alt="githubimg" src="https://github.com/user-attachments/assets/68f7c88b-0117-4c75-93a1-7c230ce5c4da" />
 
 https://drive.google.com/file/d/1mP4a9mhJt6_7aAY3MsKOIWheNc1yKL3I/view?usp=sharing
 
 Video tutorial
 
-https://drive.google.com/file/d/1aPEUYzEpYT1iSKS1zRV8f52GuWGGi_kX/view?usp=sharing
 [![](https://github.com/user-attachments/assets/68f7c88b-0117-4c75-93a1-7c230ce5c4da)](https://drive.google.com/file/d/1aPEUYzEpYT1iSKS1zRV8f52GuWGGi_kX/view?usp=sharing)
 
 ## Method
