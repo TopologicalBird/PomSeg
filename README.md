@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1mP4a9mhJt6_7aAY3MsKOIWheNc1yKL3I/view?usp=shari
 Video tutorial
 
 https://drive.google.com/file/d/1aPEUYzEpYT1iSKS1zRV8f52GuWGGi_kX/view?usp=sharing
-[![]()](https://www.youtube.com/watch?v=iGm4LSSgR-c)
+[![]()](https://youtu.be/iGm4LSSgR-c?si=nIuCUGjkotG8ftFZ)
 
 ## Method
 ### Preprocessing
