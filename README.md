@@ -3,7 +3,7 @@
 This is a 2D & 3D membrane segmentation tool based on persistent homology.
 
 PomSeg employs persistent homology in a hierarchical manner. When provided with 2D image data, PomSeg utilizes grayscale intensity-based persistent homology to produce cell segmentation results. If a set of 2D slice images obtained from 3D cell imaging is the input, PomSeg can generate, from a set of 2D segmentation results, a 3D segmentation result using a 3D distance-based persistent homology calculation.
-[test.pdf](https://github.com/user-attachments/files/21911964/test.pdf)
+![sample](https://github.com/user-attachments/assets/b7f1340d-319c-4f52-9798-15907c08170a)
 
 The embryo image shown in the jupyter notebook was provided by Dr. Dimitri Fabrèges
 
