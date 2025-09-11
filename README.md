@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1mP4a9mhJt6_7aAY3MsKOIWheNc1yKL3I/view?usp=shari
 
 Video tutorial (3min)
 
-[![](https://github.com/user-attachments/assets/68f7c88b-0117-4c75-93a1-7c230ce5c4da)](https://youtu.be/iGm4LSSgR-c?si=SOKt673Rnc3y-cQG)
+[![](https://github.com/user-attachments/assets/68f7c88b-0117-4c75-93a1-7c230ce5c4da)](https://youtu.be/Zv-qvUaTPIc?si=2YRtsicZInzKyRo9)
 
 ## Method
 ### Preprocessing
