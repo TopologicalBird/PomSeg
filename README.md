@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/364749d7-d5fa-41ef-9c0c-995defd25e7c
 
 ## PomSeg GUI
 
-PomSeg GUI is available from 
+PomSeg GUI (currently windows version only) is available from 
 
 https://drive.google.com/file/d/1mP4a9mhJt6_7aAY3MsKOIWheNc1yKL3I/view?usp=sharing
 
