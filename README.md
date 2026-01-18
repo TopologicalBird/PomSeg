@@ -13,10 +13,6 @@ https://doi.org/10.1101/2023.01.24.525420
 
 Joint work with Yusuke Imoto (Kyoto Univ.)
 
-
-https://github.com/user-attachments/assets/364749d7-d5fa-41ef-9c0c-995defd25e7c
-
-
 https://github.com/user-attachments/assets/bea74b18-95e9-4b36-be4e-a85777c8c9f4
 
 
